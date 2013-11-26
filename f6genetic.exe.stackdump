@@ -1,0 +1,9 @@
+Exception: STATUS_STACK_OVERFLOW at eip=004020EF
+eax=00125EF0 ebx=0023AC5C ecx=00042C20 edx=00000000 esi=00000000 edi=0023CD84
+ebp=0023AC38 esp=0023AC14 program=D:\_MyStaff\WIT\Semestr 3\MEH\projekt 1\f6genetic\dist\Debug\Cygwin_4.x-Windows\f6genetic.exe, pid 5288, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0023AC38  004020EF (00000001, 0023AC5C, 20010100, 61007F58)
+0023ACF8  61007FB5 (00000000, 0023CD84, 61007120, 00000000)
+End of stack trace
