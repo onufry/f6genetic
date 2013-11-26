@@ -20,9 +20,9 @@
 #define PLIK_BEST "best.txt"
 
 
-uint32_t gen_size =500;
-double p_cross= 0.5;
-double p_mut=0.1;
+//uint32_t gen_size =500;
+//double p_cross= 0.5;
+//double p_mut=0.1;
 
 /**
  * Funkcja porównująca dla qsort
